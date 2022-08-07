@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hello_Pravaat_Sama.iml" filepath="$PROJECT_DIR$/.idea/modules/Hello_Pravaat_Sama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello_Pravaat_Sama.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
